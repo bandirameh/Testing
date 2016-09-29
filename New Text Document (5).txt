@@ -1,0 +1,17 @@
+http://cgi-lib.berkeley.edu/ex/fup.html
+
+
+
+http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+https://github.com/
+https://github.com/login
+https://github.com
+rameshbandi2020@gmail.com	
+rameshbandi2020@123 
+
+//gyUah49PlSM2BPoRdUX4hATCyKFcKqz2zttNtmpMl3LdkeRUaCIhYea3yaHEweK5PV1moVXFUIFFti1rrGj1Zw==
+92
+41
+exUIds8m0cL/Pm+tXAJI3biedgjUEv0M9PirVcIgmWuN495wojj/qX0NQsh/3zlkCtzYwgctVtaMmkUNPhpGEQ==
+
+nput name="authenticity_token" type="hidden" value="gyUah49PlSM2BPoRdUX4hATCyKFcKqz2zttNtmpMl3LdkeRUaCIhYea3yaHEweK5PV1moVXFUIFFti1rrGj1Zw==" />
